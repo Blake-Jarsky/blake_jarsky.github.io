@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 exclude: []
 
 
@@ -21,3 +22,6 @@ defaults:
     values:
       layout: "default"
     
+=======
+theme: jekyll-theme-dinky
+>>>>>>> cacdaa4c48280e3171bd9ff6c0b2c20d5c92fbca
