@@ -8,6 +8,8 @@ nav a { text-decoration: none; float: left; display: block; width: 10%; height: 
 
 nav a:hover { background-color: gray; }
 
+.background { position: fixed; width: 640px; color: #ad7222b3; z-index: -1; left: 50px; }
+
 body { position: relative; margin-top: 50px; height: 1500px; }
 
 /*# sourceMappingURL=styles.css.map */
