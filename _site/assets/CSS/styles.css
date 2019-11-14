@@ -16,7 +16,7 @@ p { font-size: 25px; width: 800px; }
 
 h1 { font-size: 45px; }
 
-.background { position: fixed; width: 640px; color: #ad7222b3; z-index: -1; left: 150px; transform: rotate(20deg); margin-top: 150px; }
+.background { font-size: 20px; position: fixed; width: 640px; color: #ad7222e0; z-index: -1; left: 50px; transform: rotate(20deg); margin-top: 100px; }
 
 body { position: relative; margin-top: 50px; margin-left: 10px; height: 1500px; }
 

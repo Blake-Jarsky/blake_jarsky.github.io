@@ -67,14 +67,15 @@ h1 {
 }
 
 .background {
+  font-size: 20px;
   position: fixed; 
   width: 640px;
   //white-space: pre;
-  color: #ad7222b3;
+  color: #ad7222e0;
   z-index: -1;
-  left: 150px;
+  left: 50px;
   transform: rotate(20deg);
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 body {
