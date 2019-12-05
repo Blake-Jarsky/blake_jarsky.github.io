@@ -5,9 +5,9 @@
 #### **Available in geographies:** Los Angeles, CA; Portland, OR; Boise, ID; Albuquerque, NM; Reno, NV; Denver, CO; Seattle, WA; Orange County, CA; San Diego, CA
 
 ## **EXPERIENCE:**
-**04/2018-Present – Autodidactic Professional Sabbatical**
+**04/2018-Present – Autodidactic Software Developer**
 
-- Planning and executing computer science and web development curriculum to prepare for a career transition to hands-on technology professional
+- On a professional sabbatical, planning and executing computer science and web development curriculum to prepare for a career transition to hands-on technology professional
 - Balancing conceptual learning with practical application
 - Emphasizing broad multi-domain-applicable foundational knowledge, with select deep-dive into full-stack web development
 - Built portfolio website using Jekyll, Liquid, html/css and jQuery. Hosted on GitHub pages and configured custom domain via DNS configuration
@@ -18,7 +18,7 @@
 - **General Computing:** Windows/Mac/Linux, user permissions, package management, Bash, Virtual Box, Docker, network protocols, DNS, build/deployment, server configuration
 - **Languages/Programming:** JavaScript, SQL, node.js, some Python, Java and C++
 - **Web Development:** HTML, CSS, SCSS, jQuery, Bootstrap, Jekyll, Liquid, markdown, Express, Heroku, Polymer
-- **Data/Database:** MySQL, MySQLWorkbench, Azure Data Studio, Access, database design, some NoSQL, Firebase, JSON, YML and XML
+- **Data/Database:** MySQL, PostgreSQL, MySQLWorkbench, Azure Data Studio, Access, database design, some NoSQL, Firebase, JSON, YML and XML
 - **Tools/other:** GitHub, git, vim, VS Code, Chrome Developer Tools, Google Analytics
 
 ### **Areas of Interest/intended near-term utilization:**

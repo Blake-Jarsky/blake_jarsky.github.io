@@ -1,87 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-32602305-2"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-32602305-2');
-    </script>
-
-    <meta charset="utf-8">
-    <title>Resume | Blake Jarsky</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="/assets/CSS/styles.css">
-  </head>
-  <body>
-    <nav class="nav">
-  <a href="" class="hamburger">
-    <div class="burger-text">&#x2630;</div>
-  </a>
-  <a href="/" 
-    class="nav-link" 
-  >Home
-</a>
-  <a href="/about.html" 
-    class="nav-link" 
-  >About
-</a>
-  <a href="/blog.html" 
-    class="nav-link" 
-  >Blog
-</a>
-  <a href="/resume.html" 
-    class="nav-link current"
-    >Resume
-</a>
-  <a href="/contact.html" 
-    class="nav-link" 
-  >Contact
-</a>
-  <a href="/etc.html" 
-    class="nav-link" 
-  >etc.
-</a>
-  
-</nav>
-
-    <div class="background">
-  <p>
-    <pre>
-      _____    ____               ____    ____    ____       ______    
- ___|\     \  |    |         ____|\   \  |    |  |    |  ___|\     \  
-|    |\     \ |    |        /    /\    \ |    |  |    | |     \     \
-|    | |     ||    |       |    |  |    ||    | /    // |     ,_____/|
-|    | /_ _ / |    |  ____ |    |__|    ||    |/ _ _//  |     \--'\_|/
-|    |\    \  |    | |    ||    .--.    ||    |\    \'  |     /___/|  
-|    | |    | |    | |    ||    |  |    ||    | \    \  |     \____|\ 
-|____|/____/| |____|/____/||____|  |____||____|  \____\ |____ '     /|
-|    /     || |    |     |||    |  |    ||    |   |    ||    /_____/ |
-|____|_____|/ |____|_____|/|____|  |____||____|   |____||____|     | /
-                                                             |_____|/  
-              ____        ____        _____            ______   ____    ____   _____      _____ 
-             |    |  ____|\   \   ___|\    \       ___|\     \ |    |  |    | |\    \    /    /|
-             |    | /    /\    \ |    |\    \     |    |\     \|    |  |    | | \    \  /    / |
-             |    ||    |  |    ||    | |    |    |    |/____/||    | /    // |  \____\/    /  /
-       ____  |    ||    |__|    ||    |/____/  ___|    \|   | ||    |/ _ _//   \ |    /    /  / 
-      |    | |    ||    .--.    ||    |\    \ |    \    \___|/ |    |\    \'    \|___/    /  /  
-      |    | |    ||    |  |    ||    | |    ||    |\     \    |    | \    \        /    /  /   
-      |\____\|____||____|  |____||____| |____||\ ___\|_____|   |____|  \____\      /____/  /    
-      | |    |    ||    |  |    ||    | |    || |    |     |   |    |   |    |    |`    | /     
-       \|____|____||____|  |____||____| |____| \|____|_____|   |____|   |____|    |_____|/      
-    </pre>
-  </p>
-</div>
-
-    <div id="side-nav" class="side-nav">
-    <a class="side-nav-links" href="/">Home</a><a class="side-nav-links" href="/about.html">About</a><a class="side-nav-links" href="/blog.html">Blog</a><a class="side-nav-links" href="/resume.html">Resume</a><a class="side-nav-links" href="/contact.html">Contact</a><a class="side-nav-links" href="/etc.html">etc.</a>
-</div>
-
-    <div class="text-content">
-    <h1 id="blake-jarsky"><strong>BLAKE JARSKY</strong></h1>
+I"Ý<h1 id="blake-jarsky"><strong>BLAKE JARSKY</strong></h1>
 <h3 id="junior-software-developer">Junior Software Developer</h3>
 <h3 id="wwwblakejarskytech--linkedin"><a href="https://www.blakejarsky.tech">www.blakejarsky.tech</a> | <a href="https://linkedin.com/in/blakejarsky">LinkedIn</a></h3>
 <h3 id="blakejarskyjobsgmailcom--424290-0112"><a href="mailto:blakejarskyjobs@gmail.com">blakejarskyjobs@gmail.com</a> | (424)290-0112</h3>
@@ -104,7 +21,7 @@
   <li><strong>General Computing:</strong> Windows/Mac/Linux, user permissions, package management, Bash, Virtual Box, Docker, network protocols, DNS, build/deployment, server configuration</li>
   <li><strong>Languages/Programming:</strong> JavaScript, SQL, node.js, some Python, Java and C++</li>
   <li><strong>Web Development:</strong> HTML, CSS, SCSS, jQuery, Bootstrap, Jekyll, Liquid, markdown, Express, Heroku, Polymer</li>
-  <li><strong>Data/Database:</strong> MySQL, PostgreSQL, MySQLWorkbench, Azure Data Studio, Access, database design, some NoSQL, Firebase, JSON, YML and XML</li>
+  <li><strong>Data/Database:</strong> MySQL, MySQLWorkbench, Azure Data Studio, Access, database design, some NoSQL, Firebase, JSON, YML and XML</li>
   <li><strong>Tools/other:</strong> GitHub, git, vim, VS Code, Chrome Developer Tools, Google Analytics</li>
 </ul>
 
@@ -142,7 +59,4 @@
   <li>MS Office (Access, Excel, Outlook, Word, PowerPoint, OneNote), Google Sketchup, Google Docs, Adobe Photoshop/Illustrator, Avid Pro Tools, Ableton Live, A/V production, Parallels, making music playlists, cycling, snowboarding, automotive mechanics, electrical soldering, general construction, camping, typing, 10-key, computer building and repair, singing, guitar and drums</li>
 </ul>
 
-
-    </div>
-  </body>
-</html>
+:ET

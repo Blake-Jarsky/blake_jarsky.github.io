@@ -89,6 +89,25 @@ body {
   z-index: 1;
 }
 
+.side-nav {
+  //display: hidden;
+  position: fixed;
+  left: 0px;
+  height: 240px;
+  width: 200px;
+  bottom: 51px;
+  border: 2px solid black;
+}
+
+.side-nav-links {
+  text-decoration: none;
+  color: black;
+  display: block; 
+  height: 40px;
+  width: 200px;
+  border: 1px solid black;
+}
+
 @media only screen and (min-width:1260px) {
   nav {
     width:1200px; 
@@ -166,6 +185,10 @@ body {
     top: inherit;
     bottom: 1px;
   }
+
+  //#side-nav {
+  //  display: inherit;
+  //}
 }
 
 @media only screen and (max-width:375px) {

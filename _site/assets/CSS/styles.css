@@ -22,6 +22,10 @@ body { margin-top: 50px; height: 1500px; }
 
 .text-content { z-index: 1; }
 
+.side-nav { position: fixed; left: 0px; height: 240px; width: 200px; bottom: 51px; border: 2px solid black; }
+
+.side-nav-links { text-decoration: none; color: black; display: block; height: 40px; width: 200px; border: 1px solid black; }
+
 @media only screen and (min-width: 1260px) { nav { width: 1200px; left: 50%; margin-left: -600px; }
   .nav-link { width: 15.631%; }
   .background { left: 50%; margin-left: -550px; }
