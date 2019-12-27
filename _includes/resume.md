@@ -19,7 +19,7 @@ Proven top-performer with 10+ years' professional corporate experience, culminat
 - Building data-driven dynamic web application using node.js, Express and MySQL, hosted on Heroku. The concept for the application is to serve as a companion app for a video game, allowing for advanced search of game events  
   
 ### **Topics Studied:**  
-- **CS fundamentals:** Algorithms, data types, time/space efficiency (big-O), object-oriented design patterns  
+- **CS fundamentals:** Algorithms, data types and structures, time/space efficiency (big-O), object-oriented design patterns  
 - **Languages/Programming:** JavaScript, node.js, some Python, Java and C++  
 - **Web Development:** HTML, CSS, SCSS, jQuery, Bootstrap, Jekyll, Liquid, markdown, Express, some Heroku, Polymer, React  
 - **Data/Database:** MySQL, PostgreSQL, Access, database design, some MongoDB, Firebase, and unstructured data-object protocols (JSON/YML/XML)  
