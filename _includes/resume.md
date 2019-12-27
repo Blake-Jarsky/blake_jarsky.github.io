@@ -17,7 +17,7 @@ Proven top-performer with 10+ years' professional corporate experience, culminat
 - Completing a professional sabbatical designed to acquire baseline computer science skills required for a career transition to hands-on technology professional  
 - Deployed portfolio website and releasing iterative updates. Technologies utilized include Jekyll, Liquid, html/css and jQuery. Hosted on GitHub pages with custom domain via DNS configuration  
 - Building data-driven dynamic web application using node.js, Express and MySQL, hosted on Heroku. The concept for the application is to serve as a companion app for a video game, allowing for advanced search of game events  
-
+  
 ### **Topics Studied:**  
 - **CS fundamentals:** Algorithms, data types, time/space efficiency (big-O), object-oriented design patterns  
 - **Languages/Programming:** JavaScript, node.js, some Python, Java and C++  
