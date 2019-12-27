@@ -5,7 +5,7 @@
 ### Junior Software Developer - Open to relocation  
 ### [www.blakejarsky.tech](https://www.blakejarsky.tech) | [LinkedIn](https://linkedin.com/in/blakejarsky)  
 ### [blakejarskyjobs@gmail.com](mailto:blakejarskyjobs@gmail.com) | (424)290-0112  
-
+  
 Proven top-performer with 10+ years' professional corporate experience, culminating a mid-career transition into full-stack web development / technical quality assurance. Adept in client-facing, front-office and c-suite/executive support situations. Looking to work my way up within a strong technical team.  
 
 ## **EDUCATION:**  
