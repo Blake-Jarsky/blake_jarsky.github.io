@@ -1,88 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-32602305-2"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-32602305-2');
-
-
-    </script>
-
-    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript" src="/assets/js/index.js"></script>
-    
-    <meta charset="utf-8">
-    <title>Resume | Blake Jarsky</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="/assets/CSS/styles.css">
-  </head>
-  
-  <body>
-    <nav class="nav" role="navigation">
-    <div class="hamburger">&#x2630;</div>
-    </ul>
-    <ul class="menu-links">
-        <li><a href="/" 
-        class="nav-link" 
-        >Home
-        </a></li>
-        <li><a href="/about.html" 
-        class="nav-link" 
-        >About
-        </a></li>
-        <li><a href="/resume.html" 
-        class="nav-link current"
-        >Resume
-        </a></li>
-        <li><a href="/contact.html" 
-        class="nav-link" 
-        >Contact
-        </a></li>
-        <li><a href="/etc.html" 
-        class="nav-link" 
-        >etc.
-        </a></li>
-        
-    </ul>
-</nav>
-
-    <div class="background">
-    <pre>
-      _____    ____               ____    ____    ____       ______    
- ___|\     \  |    |         ____|\   \  |    |  |    |  ___|\     \  
-|    |\     \ |    |        /    /\    \ |    |  |    | |     \     \
-|    | |     ||    |       |    |  |    ||    | /    // |     ,_____/|
-|    | /_ _ / |    |  ____ |    |__|    ||    |/ _ _//  |     \--'\_|/
-|    |\    \  |    | |    ||    .--.    ||    |\    \'  |     /___/|  
-|    | |    | |    | |    ||    |  |    ||    | \    \  |     \____|\ 
-|____|/____/| |____|/____/||____|  |____||____|  \____\ |____ '     /|
-|    /     || |    |     |||    |  |    ||    |   |    ||    /_____/ |
-|____|_____|/ |____|_____|/|____|  |____||____|   |____||____|     | /
-                                                             |_____|/  
-              ____        ____        _____            ______   ____    ____   _____      _____ 
-             |    |  ____|\   \   ___|\    \       ___|\     \ |    |  |    | |\    \    /    /|
-             |    | /    /\    \ |    |\    \     |    |\     \|    |  |    | | \    \  /    / |
-             |    ||    |  |    ||    | |    |    |    |/____/||    | /    // |  \____\/    /  /
-       ____  |    ||    |__|    ||    |/____/  ___|    \|   | ||    |/ _ _//   \ |    /    /  / 
-      |    | |    ||    .--.    ||    |\    \ |    \    \___|/ |    |\    \'    \|___/    /  /  
-      |    | |    ||    |  |    ||    | |    ||    |\     \    |    | \    \        /    /  /   
-      |\____\|____||____|  |____||____| |____||\ ___\|_____|   |____|  \____\      /____/  /    
-      | |    |    ||    |  |    ||    | |    || |    |     |   |    |   |    |    |`    | /     
-       \|____|____||____|  |____||____| |____| \|____|_____|   |____|   |____|    |_____|/      
-    </pre>
-</div>
-
-    <div id="side-nav" class="side-nav">
-    <a class="side-nav-links" href="/">Home</a><a class="side-nav-links" href="/about.html">About</a><a class="side-nav-links" href="/resume.html">Resume</a><a class="side-nav-links" href="/contact.html">Contact</a><a class="side-nav-links" href="/etc.html">etc.</a>
-</div>
-
-    <div class="text-content">
-    <p><a href="/assets/downloads/resume.md" download="Blake Jarsky - (open in web browser).md">Download my resume</a></p>
+I"Ã<p><a href="/assets/downloads/resume.md" download="Blake Jarsky - (open in web browser).md">Download my resume</a></p>
 
 <h2 id="blake-jarsky"><strong>BLAKE JARSKY</strong></h2>
 <h3 id="junior-software-developer---open-to-relocation">Junior Software Developer - Open to relocation</h3>
@@ -100,11 +16,9 @@
 <ul>
   <li>Completing a professional sabbatical designed to acquire baseline computer science skills required for a career transition to hands-on technology professional</li>
   <li>Deployed portfolio website and releasing iterative updates. Technologies utilized include Jekyll, Liquid, html/css and jQuery. Hosted on GitHub pages with custom domain via DNS configuration</li>
-  <li>Building data-driven dynamic web application using node.js, Express and MySQL, hosted on Heroku. The concept for the application is to serve as a companion app for a video game, allowing for advanced search of game events</li>
-</ul>
-
-<p><strong>Topics Studied:</strong></p>
-<ul>
+  <li>Building data-driven dynamic web application using node.js, Express and MySQL, hosted on Heroku. The concept for the application is to serve as a companion app for a video game, allowing for advanced search of game events<br />
+<br />
+<strong>Topics Studied:</strong></li>
   <li><strong>CS fundamentals:</strong> Algorithms, data types and structures, time/space efficiency (big-O), object-oriented design patterns</li>
   <li><strong>Languages/Programming:</strong> JavaScript, node.js, some Python, Java and C++</li>
   <li><strong>Web Development:</strong> HTML, CSS, SCSS, jQuery, Bootstrap, Jekyll, Liquid, markdown, Express, some Heroku, Polymer, React</li>
@@ -148,7 +62,4 @@
 <p><br />
 <br />
 <br /></p>
-
-    </div>
-  </body>
-</html>
+:ET
