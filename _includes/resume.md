@@ -21,7 +21,7 @@ Proven top-performer with 10+ years' professional corporate experience, culminat
 **CS fundamentals:** Algorithms, data types and structures, time/space efficiency (big-O), object-oriented design patterns  
 **Languages/Programming:** JavaScript, node.js, some Python, Java and C++  
 **Web Development:** HTML, CSS, SCSS, jQuery, Bootstrap, Angular (2+), Jekyll, Liquid, Express, some Heroku, Polymer and React  
-**Data/Database:** MySQL, MongoDV, PostgreSQL, Access, database design, some Firebase and semi-structured file/object protocols (JSON/YML/XML)  
+**Data/Database:** MySQL, MongoDB, PostgreSQL, Access, database design, some Firebase and semi-structured file/object protocols (JSON/YML/XML)  
 **General Computing/other tools:** Windows/Mac/Linux, user permissions, package management, Agile/XP, Bash, SQL, Virtual Box, Docker, network protocols, DNS, build/deployment, server configuration, GitHub, git, vim, VS Code, Chrome/Firefox Developer Tools, Google Analytics, jest, MySQLWorkbench, Azure Data Studio  
 
 ### **Areas of Interest/intended near-term utilization:**  
