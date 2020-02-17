@@ -19,13 +19,13 @@ Proven top-performer with 10+ years' professional corporate experience, culminat
 
 **Topics Studied:**  
 **CS fundamentals:** Algorithms, data types and structures, time/space efficiency (big-O), object-oriented design patterns  
-**Languages/Programming:** JavaScript, node.js, some Python, Java and C++  
+**Languages/Programming:** JavaScript, TypeScript, node.js, some Python, Java and C++  
 **Web Development:** HTML, CSS, SCSS, jQuery, Bootstrap, Angular (2+), Jekyll, Liquid, Express, some Heroku, Polymer and React  
 **Data/Database:** MySQL, MongoDB, PostgreSQL, Access, database design, some Firebase and semi-structured file/object protocols (JSON/YML/XML)  
 **General Computing/other tools:** Windows/Mac/Linux, user permissions, package management, Agile/XP, Bash, SQL, Virtual Box, Docker, network protocols, DNS, build/deployment, server configuration, GitHub, git, vim, VS Code, Chrome/Firefox Developer Tools, Google Analytics, jest, MySQLWorkbench, Azure Data Studio  
 
 ### **Areas of Interest/intended near-term utilization:**  
-- Software engineering, web development, DevOps, test engineering, MVC/MvvM, authentication, Java, .NET, TypeScript, REST API, JAM stack, data visualization, data streams, real-time systems, IoT, BI, cloud implementation, TDD, modern architectures (microservices, serverless, etc.)  
+- Software engineering, web development, DevOps, test engineering, authentication, Java, C#, .NET, JAM stack, data visualization, real-time systems, IoT, BI, cloud implementation, TDD, modern architectures (microservices, serverless, etc.)  
 
 ## **NON-ENGINEERING EMPLOYMENT:**  
 Exceptional track-record as high-value team member in a variety of industries and domains. Demonstrated versatility and adaptability through dynamic roles in many corporate environments.
