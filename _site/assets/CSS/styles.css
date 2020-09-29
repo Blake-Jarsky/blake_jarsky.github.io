@@ -24,7 +24,13 @@ nav { background-color: #c69c62; position: fixed; top: 0; left: 0; width: 100%; 
 
 p { font-size: 18px; margin-bottom: 16px; }
 
-.background { font-size: 16px; position: fixed; width: 640px; color: #ad7222e0; z-index: -1; left: 50px; transform: rotate(-20deg); margin-top: 130px; }
+.background-ascii-art { font-size: 16px; position: fixed; width: 640px; color: #ad7222e0; z-index: -1; left: 150px; transform: rotate(-20deg); margin-top: 320px; }
+
+#ascii-art-lname { margin-top: 260px; left: 300px; }
+
+#ascii-art-fname { margin-top: 120px; }
+
+.background { display: none; }
 
 body { margin-top: 50px; margin-left: 20px; overflow-x: hidden; overflow-wrap: break-word; }
 
@@ -35,24 +41,24 @@ body { margin-top: 50px; margin-left: 20px; overflow-x: hidden; overflow-wrap: b
 .side-nav-links { text-decoration: none; color: black; display: block; height: 40px; width: 196px; border-bottom: 2px solid black; }
 
 @media only screen and (min-width: 1260px) { nav { width: 1200px; left: 50%; margin-left: -600px; }
-  .background { left: 50%; margin-left: -550px; }
+  .background-ascii-art { left: 50%; margin-left: -550px; }
   .text-content { left: 50%; margin-left: -550px; position: relative; width: 950px; } }
 
-@media only screen and (max-width: 1060px) { .background { font-size: 14px; } }
+@media only screen and (max-width: 1060px) { .background-ascii-art { font-size: 14px; } }
 
-@media only screen and (max-width: 850px) { .background { font-size: 12px; } }
+@media only screen and (max-width: 850px) { .background-ascii-art { font-size: 12px; } }
 
 @media only screen and (max-width: 700px) { .nav-link { display: none; }
-  .background { transform: rotate(-75deg); margin-top: 180px; left: 0px; }
+  .background-ascii-art { transform: rotate(-75deg); margin-top: 180px; left: 0px; }
   .hamburger { display: inherit; }
   .side-nav { bottom: inherit; } }
 
-@media only screen and (max-width: 414px) { .background { font-size: 10px; left: -140px; transform: rotate(-80deg); margin-top: 85px; }
+@media only screen and (max-width: 414px) { .background-ascii-art { font-size: 10px; left: -140px; transform: rotate(-80deg); margin-top: 85px; }
   .nav { top: inherit; bottom: 1px; }
   .side-nav { bottom: 51px; } }
 
-@media only screen and (max-width: 375px) { .background { font-size: 10px; left: -140px; transform: rotate(-80deg); margin-top: 85px; } }
+@media only screen and (max-width: 375px) { .background-ascii-art { font-size: 10px; left: -140px; transform: rotate(-80deg); margin-top: 85px; } }
 
-@media only screen and (max-width: 320px) { .background { font-size: 9px; margin-top: 20px; } }
+@media only screen and (max-width: 320px) { .background-ascii-art { font-size: 9px; margin-top: 20px; } }
 
 /*# sourceMappingURL=styles.css.map */

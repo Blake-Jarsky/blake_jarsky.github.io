@@ -90,15 +90,36 @@ p {
     margin-bottom: 16px;
 }
 
-.background {
+.background-ascii-art {
     font-size: 16px;
     position: fixed; 
     width: 640px;
     color: #ad7222e0;
     z-index: -1;
-    left: 50px;
+    left: 150px;
     transform: rotate(-20deg);
-    margin-top: 130px;
+    margin-top: 320px;
+}
+
+#ascii-art-lname {
+    margin-top: 260px;
+    left: 300px;
+}
+
+#ascii-art-fname {
+    margin-top: 120px;
+}
+
+.background {
+    display: none;
+    // font-size: 16px;
+    // position: fixed; 
+    // width: 640px;
+    // color: #ad7222e0;
+    // z-index: -1;
+    // left: 150px;
+    // transform: rotate(-20deg);
+    // margin-top: 130px;
 }
 
 body {
@@ -156,7 +177,7 @@ body {
     margin-left: -600px;  
   }  
   
-  .background {
+  .background-ascii-art {
     left: 50%;
     margin-left: -550px;
   }
@@ -170,13 +191,13 @@ body {
 }
 
 @media only screen and (max-width:1060px) {
-  .background {
+  .background-ascii-art {
     font-size: 14px;
   }
 }
 
 @media only screen and (max-width:850px) {
-  .background {
+  .background-ascii-art {
     font-size: 12px;
   }
 }
@@ -186,7 +207,7 @@ body {
     display: none;
   }
   
-  .background {
+  .background-ascii-art {
     transform: rotate(-75deg);
     margin-top: 180px;
     left: 0px;
@@ -202,7 +223,7 @@ body {
 }
 
 @media only screen and (max-width:414px) {
-  .background {
+  .background-ascii-art {
     font-size: 10px;
     left: -140px;
     transform: rotate(-80deg);
@@ -220,7 +241,7 @@ body {
 }
 
 @media only screen and (max-width:375px) {
-   .background {
+   .background-ascii-art {
     font-size: 10px;
     left: -140px;
     transform: rotate(-80deg);
@@ -229,7 +250,7 @@ body {
 }
 
 @media only screen and (max-width:320px) {
-  .background {
+  .background-ascii-art {
     font-size: 9px;
     margin-top: 20px;
   }

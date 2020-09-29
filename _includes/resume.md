@@ -1,11 +1,12 @@
 [//]: # (OPEN THIS FILE IN A WEB BROWSER)
 
-## **BLAKE JARSKY**  
+## **BLAKE NEWSKY**  
 ### Junior Software Developer - Open to relocation  
-### [www.blakejarsky.tech](https://www.blakejarsky.tech) | [LinkedIn](https://linkedin.com/in/blakejarsky)  
+### <a href="https://www.blakejarsky.tech/" target="_blank">www.blakejarsky.tech</a> | <a href="https://www.linkedin.com/in/blakenewsky" target="_blank">LinkedIn</a>
+
 ### [blakejarskyjobs@gmail.com](mailto:blakejarskyjobs@gmail.com) | (424)290-0112  
   
-Proven top-performer with 10+ years' professional corporate experience, culminating a mid-career transition into full-stack web development / technical quality assurance. Looking to work my way up within a strong technical team.  
+Proven mid-career professional with 10+ years' dynamic corporate experience, culminating a mid-career transition into full-stack web development / technical quality assurance / technical support. Looking to work my way up within a strong team.  
 
 ## **EDUCATION:**  
 **College of Idaho – Caldwell, ID** - Bachelor of Arts: Music Education  
@@ -14,15 +15,15 @@ Proven top-performer with 10+ years' professional corporate experience, culminat
 **04/2018-Present – Autodidactic Software Developer**  
 
 - Completing a professional sabbatical designed to acquire baseline computer science skills required for a career transition to hands-on technology professional  
-- Deployed portfolio website and releasing iterative updates. Technologies utilized include Jekyll, Liquid, html/css and jQuery. Hosted on GitHub pages with custom domain via DNS configuration  
-- Building data-driven dynamic web application using Angular,node.js, Express and MySQL. The concept for the application is to serve as a companion app for a video game, allowing for advanced search of game events
+- Deployed portfolio <a href="https://www.blakejarsky.tech" target="_blank">portfolio website</a> and releasing iterative updates. Technologies utilized include Jekyll, Liquid, html/css and jQuery. Hosted on GitHub pages with custom domain via DNS configuration  
+- Building data-driven <a href="https://race-game.herokuapp.com" target="_blank">dynamic web application</a> (hosted on heroku's free tier, which requires a server instance to spin up from suspended state, so it might take a few seconds for the site to respond) using React, node.js, Express, pgsql, pug, bootstrap and PostgreSQL. The concept for the application is to serve as a companion app for a video game, allowing for advanced search of game events
 
 **Topics Studied:**  
 **CS fundamentals:** Algorithms, data types and structures, time/space efficiency (big-O), object-oriented design patterns  
-**Languages/Programming:** JavaScript, TypeScript, node.js, some Python, Java and C++  
-**Web Development:** HTML, CSS, SCSS, jQuery, Bootstrap, Angular (2+), Jekyll, Liquid, Express, some Heroku, Polymer and React  
+**Languages/Programming:** JavaScript, TypeScript, node.js  
+**Web Development:** HTML, CSS, SCSS, jQuery, React, Bootstrap, Angular (2+), Jekyll, Liquid, Express, Heroku  
 **Data/Database:** MySQL, MongoDB, PostgreSQL, Access, database design, some Firebase and semi-structured file/object protocols (JSON/YML/XML)  
-**General Computing/other tools:** Windows/Mac/Linux, user permissions, package management, Agile/XP, Bash, SQL, Virtual Box, Docker, network protocols, DNS, build/deployment, server configuration, GitHub, git, vim, VS Code, Chrome/Firefox Developer Tools, Google Analytics, jest, MySQLWorkbench, Azure Data Studio  
+**General Computing/other tools:** Windows/Mac/Linux, user permissions, package management, Agile/XP, Bash, SQL, Virtual Box, Docker, network protocols, DNS, build/deployment, server configuration, GitHub, git, vim, VS Code, Chrome/Firefox Developer Tools, Google Analytics, jest, MySQLWorkbench
 
 ### **Areas of Interest/intended near-term utilization:**  
 - Software engineering, web development, DevOps, test engineering, authentication, Java, C#, .NET, JAM stack, data visualization, real-time systems, IoT, BI, cloud implementation, TDD, modern architectures (microservices, serverless, etc.)  
