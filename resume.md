@@ -2,7 +2,7 @@
 title: Resume
 ---
 
-<a href="/assets/downloads/resume.md" download="Blake Jarsky - (open in web browser).md">Download my resume</a>
+<a href="/assets/downloads/Blake_Newsky.doc" download="Blake_Newsky.doc">Download my resume</a>
 
 {% include resume.md %}
 <br>
