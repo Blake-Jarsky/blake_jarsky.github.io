@@ -22,15 +22,15 @@ nav { background-color: #c69c62; position: fixed; top: 0; left: 0; width: 100%; 
 
 .hamburger { display: none; color: black; text-align: center; font-size: 30px; float: left; width: 50px; height: 50px; border-top: 3px solid black; border-bottom: 3px solid black; border-right: 3px solid black; opacity: 1; }
 
-p { font-size: 18px; margin-bottom: 16px; }
+p { font-size: 18px; margin-bottom: 12px; margin-top: 12px; }
 
-.background-ascii-art { font-size: 16px; position: fixed; width: 640px; color: #ad7222e0; z-index: -1; left: 150px; transform: rotate(-20deg); margin-top: 320px; }
+div ul li { margin-bottom: 16px; }
 
-#ascii-art-lname { margin-top: 260px; left: 300px; }
+.background-ascii-art { font-size: 16px; position: fixed; width: 640px; color: #ad7222e0; z-index: -1; transform: rotate(-20deg); margin-top: 320px; }
 
-#ascii-art-fname { margin-top: 120px; }
+.ascii-art-lname { margin-top: 260px; }
 
-.background { display: none; }
+.ascii-art-fname { margin-top: 120px; }
 
 body { margin-top: 50px; margin-left: 20px; overflow-x: hidden; overflow-wrap: break-word; }
 
@@ -49,16 +49,24 @@ body { margin-top: 50px; margin-left: 20px; overflow-x: hidden; overflow-wrap: b
 @media only screen and (max-width: 850px) { .background-ascii-art { font-size: 12px; } }
 
 @media only screen and (max-width: 700px) { .nav-link { display: none; }
-  .background-ascii-art { transform: rotate(-75deg); margin-top: 180px; left: 0px; }
+  .background-ascii-art { transform: rotate(-75deg); }
+  .ascii-art-fname { margin-top: 190px; left: -150px; }
+  .ascii-art-lname { margin-top: 350px; left: -40px; }
   .hamburger { display: inherit; }
   .side-nav { bottom: inherit; } }
 
-@media only screen and (max-width: 414px) { .background-ascii-art { font-size: 10px; left: -140px; transform: rotate(-80deg); margin-top: 85px; }
+@media only screen and (max-width: 414px) { .background-ascii-art { font-size: 10px; transform: rotate(-80deg); }
+  .ascii-art-fname { margin-top: 125px; left: -150px; }
+  .ascii-art-lname { margin-top: 210px; left: -40px; }
   .nav { top: inherit; bottom: 1px; }
   .side-nav { bottom: 51px; } }
 
-@media only screen and (max-width: 375px) { .background-ascii-art { font-size: 10px; left: -140px; transform: rotate(-80deg); margin-top: 85px; } }
+@media only screen and (max-width: 375px) { .background-ascii-art { font-size: 10px; transform: rotate(-80deg); }
+  .ascii-art-fname { margin-top: 165px; left: -165px; }
+  .ascii-art-lname { margin-top: 165px; left: -40px; } }
 
-@media only screen and (max-width: 320px) { .background-ascii-art { font-size: 9px; margin-top: 20px; } }
+@media only screen and (max-width: 320px) { .background-ascii-art { font-size: 9px; }
+  .ascii-art-fname { margin-top: 80px; left: -185px; }
+  .ascii-art-lname { margin-top: 85px; left: -76px; } }
 
 /*# sourceMappingURL=styles.css.map */
