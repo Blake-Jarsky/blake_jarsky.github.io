@@ -262,7 +262,7 @@ body {
   }
 
   .ascii-art-fname {
-    margin-top: 165px;
+    margin-top: 101px;
     left: -96px;
   }
 
@@ -274,31 +274,33 @@ body {
 
 @media only screen and (max-width: 320px) {
   .background-ascii-art {
-    // font-size: 9px;
-    // margin-top: 20px;
+    font-size: 7px;
+    margin-top: 89px;
   }
+}
 
-  .ascii-art-fname {
-    margin-top: 80px;
-    left: -123px;
+@media only screen and (max-height: 485px) {
+  .background-ascii-art {
+    margin-top: 35px;
   }
+}
 
-  .ascii-art-lname {
-    margin-top: 85px;
-    left: -76px;
+@media only screen and (max-height: 442px) {
+  .background-ascii-art {
+    margin-top: 25px;
   }
 }
 
 @media only screen and (max-height: 414px) {
-    .background-ascii-art {
-      margin-top: 50px;
-    }
+  .background-ascii-art {
+    margin-top: 50px;
   }
+}
 
-  @media only screen and (max-height: 376px) {
-    .background-ascii-art {
-      transform: rotate(-20deg);
-      font-size: 6px;
-      left: 65px;
-    }
+@media only screen and (max-height: 376px) {
+  .background-ascii-art {
+    transform: rotate(-20deg);
+    font-size: 6px;
+    left: 65px;
   }
+}

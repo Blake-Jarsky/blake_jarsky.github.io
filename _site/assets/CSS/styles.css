@@ -64,11 +64,14 @@ body { margin-top: 50px; margin-left: 20px; overflow-x: hidden; overflow-wrap: b
   .side-nav { bottom: 51px; } }
 
 @media only screen and (max-width: 375px) { .background-ascii-art { font-size: 8px; transform: rotate(-80deg); }
-  .ascii-art-fname { margin-top: 165px; left: -96px; }
+  .ascii-art-fname { margin-top: 101px; left: -96px; }
   .ascii-art-lname { margin-top: 165px; left: -40px; } }
 
-@media only screen and (max-width: 320px) { .ascii-art-fname { margin-top: 80px; left: -123px; }
-  .ascii-art-lname { margin-top: 85px; left: -76px; } }
+@media only screen and (max-width: 320px) { .background-ascii-art { font-size: 7px; margin-top: 89px; } }
+
+@media only screen and (max-height: 485px) { .background-ascii-art { margin-top: 35px; } }
+
+@media only screen and (max-height: 442px) { .background-ascii-art { margin-top: 25px; } }
 
 @media only screen and (max-height: 414px) { .background-ascii-art { margin-top: 50px; } }
 
