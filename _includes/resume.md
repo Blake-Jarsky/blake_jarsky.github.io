@@ -21,7 +21,7 @@ updates. Technologies utilized include Jekyll, Liquid, html/css and jQuery. Host
 with custom domain via DNS configuration  
 - Building <a href="https://race-game.herokuapp.com" target="_blank">dynamic web application</a> (hosted on heroku's free 
 tier, which requires a server instance to spin up from suspended state, so it might take a few seconds 
-for the site to initially load) using React, node.js, Express, pug, bootstrap REST API, and PostgreSQL. 
+for the site to initially load) using React, node.js, Express, pug, bootstrap, REST API, and PostgreSQL. 
 The concept for the application is to serve as a companion app for a video game, allowing for advanced 
 search of game events. Source code github repo <a href="https://github.com/blakemade/race-game" target="_blank">here</a>
 

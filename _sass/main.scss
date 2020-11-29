@@ -93,18 +93,19 @@ p {
 }
 
 div ul li {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .background-ascii-art {
   font-size: 16px;
   position: fixed;
-  width: 640px;
+  // width: 640px;
   color: #ad7222e0;
   z-index: -1;
   // left: 150px;
   transform: rotate(-20deg);
   margin-top: 320px;
+  //   -webkit-text-size-adjust: 100%;
 }
 
 .ascii-art-lname {
@@ -114,6 +115,7 @@ div ul li {
 
 .ascii-art-fname {
   margin-top: 120px;
+  margin-left: 70px;
 }
 
 body {
@@ -171,35 +173,47 @@ body {
   }
 }
 
-@media only screen and (max-width: 1060px) {
+@media only screen and (max-width: 1090px) {
   .background-ascii-art {
     font-size: 14px;
   }
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 970px) {
   .background-ascii-art {
     font-size: 12px;
-  }
-}
-
-@media only screen and (max-width: 700px) {
-  .nav-link {
-    display: none;
-  }
-
-  .background-ascii-art {
-    transform: rotate(-75deg);
   }
 
   .ascii-art-fname {
     margin-top: 190px;
+  }
+
+  //   .ascii-art-lname {
+  //     margin-top: 350px;
+  //     left: -40px;
+  //   }
+}
+
+@media only screen and (max-width: 840px) {
+  .background-ascii-art {
+    font-size: 11px;
+  }
+
+  .ascii-art-fname {
+    margin-top: 190px;
+    margin-left: 20px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .background-ascii-art {
+    font-size: 12px;
+    transform: rotate(-75deg);
     left: -150px;
   }
 
-  .ascii-art-lname {
-    margin-top: 350px;
-    left: -40px;
+  .nav-link {
+    display: none;
   }
 
   .hamburger {
@@ -241,7 +255,7 @@ body {
 
 @media only screen and (max-width: 375px) {
   .background-ascii-art {
-    font-size: 10px;
+    font-size: 8px;
     // left: -140px;
     transform: rotate(-80deg);
     // margin-top: 85px;
@@ -249,7 +263,7 @@ body {
 
   .ascii-art-fname {
     margin-top: 165px;
-    left: -165px;
+    left: -96px;
   }
 
   .ascii-art-lname {
@@ -260,13 +274,13 @@ body {
 
 @media only screen and (max-width: 320px) {
   .background-ascii-art {
-    font-size: 9px;
+    // font-size: 9px;
     // margin-top: 20px;
   }
 
   .ascii-art-fname {
     margin-top: 80px;
-    left: -185px;
+    left: -123px;
   }
 
   .ascii-art-lname {
@@ -274,3 +288,17 @@ body {
     left: -76px;
   }
 }
+
+@media only screen and (max-height: 414px) {
+    .background-ascii-art {
+      margin-top: 50px;
+    }
+  }
+
+  @media only screen and (max-height: 376px) {
+    .background-ascii-art {
+      transform: rotate(-20deg);
+      font-size: 6px;
+      left: 65px;
+    }
+  }
