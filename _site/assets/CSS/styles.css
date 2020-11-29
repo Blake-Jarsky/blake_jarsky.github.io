@@ -26,11 +26,11 @@ p { font-size: 18px; margin-bottom: 12px; margin-top: 12px; }
 
 div ul li { margin-bottom: 16px; }
 
-.background-ascii-art { font-size: 16px; position: fixed; width: 640px; color: #ad7222e0; z-index: -1; transform: rotate(-20deg); margin-top: 320px; }
+.background-ascii-art { font-size: 16px; position: fixed; color: #ad7222e0; z-index: -1; transform: rotate(-20deg); margin-top: 320px; }
 
 .ascii-art-lname { margin-top: 260px; }
 
-.ascii-art-fname { margin-top: 120px; }
+.ascii-art-fname { margin-top: 120px; margin-left: 70px; }
 
 body { margin-top: 50px; margin-left: 20px; overflow-x: hidden; overflow-wrap: break-word; }
 
@@ -44,14 +44,16 @@ body { margin-top: 50px; margin-left: 20px; overflow-x: hidden; overflow-wrap: b
   .background-ascii-art { left: 50%; margin-left: -550px; }
   .text-content { left: 50%; margin-left: -550px; position: relative; width: 950px; } }
 
-@media only screen and (max-width: 1060px) { .background-ascii-art { font-size: 14px; } }
+@media only screen and (max-width: 1090px) { .background-ascii-art { font-size: 14px; } }
 
-@media only screen and (max-width: 850px) { .background-ascii-art { font-size: 12px; } }
+@media only screen and (max-width: 970px) { .background-ascii-art { font-size: 12px; }
+  .ascii-art-fname { margin-top: 190px; } }
 
-@media only screen and (max-width: 700px) { .nav-link { display: none; }
-  .background-ascii-art { transform: rotate(-75deg); }
-  .ascii-art-fname { margin-top: 190px; left: -150px; }
-  .ascii-art-lname { margin-top: 350px; left: -40px; }
+@media only screen and (max-width: 840px) { .background-ascii-art { font-size: 11px; }
+  .ascii-art-fname { margin-top: 190px; margin-left: 20px; } }
+
+@media only screen and (max-width: 700px) { .background-ascii-art { font-size: 12px; transform: rotate(-75deg); left: -150px; }
+  .nav-link { display: none; }
   .hamburger { display: inherit; }
   .side-nav { bottom: inherit; } }
 
@@ -61,12 +63,15 @@ body { margin-top: 50px; margin-left: 20px; overflow-x: hidden; overflow-wrap: b
   .nav { top: inherit; bottom: 1px; }
   .side-nav { bottom: 51px; } }
 
-@media only screen and (max-width: 375px) { .background-ascii-art { font-size: 10px; transform: rotate(-80deg); }
-  .ascii-art-fname { margin-top: 165px; left: -165px; }
+@media only screen and (max-width: 375px) { .background-ascii-art { font-size: 8px; transform: rotate(-80deg); }
+  .ascii-art-fname { margin-top: 165px; left: -96px; }
   .ascii-art-lname { margin-top: 165px; left: -40px; } }
 
-@media only screen and (max-width: 320px) { .background-ascii-art { font-size: 9px; }
-  .ascii-art-fname { margin-top: 80px; left: -185px; }
+@media only screen and (max-width: 320px) { .ascii-art-fname { margin-top: 80px; left: -123px; }
   .ascii-art-lname { margin-top: 85px; left: -76px; } }
+
+@media only screen and (max-height: 414px) { .background-ascii-art { margin-top: 50px; } }
+
+@media only screen and (max-height: 376px) { .background-ascii-art { transform: rotate(-20deg); font-size: 6px; left: 65px; } }
 
 /*# sourceMappingURL=styles.css.map */
