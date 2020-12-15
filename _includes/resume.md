@@ -1,8 +1,6 @@
-[//]: # (OPEN THIS FILE IN A WEB BROWSER)
-
 ## **BLAKE NEWSKY**  
 ### Junior Software Developer - Open to relocation  
-### <a href="https://www.blakenewsky.tech/" target="_blank">www.blakenewsky.tech</a> | <a href="https://www.linkedin.com/in/blakenewsky" target="_blank">LinkedIn</a> | [blakenewskyjobs@gmail.com](mailto:blakenewskyjobs@gmail.com) | (424)290-0112  
+### <a href="https://www.blakenewsky.tech/" target="_blank">www.blakenewsky.tech</a> | <a href="https://www.linkedin.com/in/blakenewsky" target="_blank">LinkedIn</a> | [blake@blakenewsky.tech](mailto:blake@blakenewsky.tech) | (424)290-0112  
   
 ## **PROFILE:**  
 Proven mid-career professional culminating a career transition into hands-on tech pro. Looking to work my way up 
