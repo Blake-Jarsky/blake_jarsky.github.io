@@ -16,7 +16,7 @@ within a strong team.
 
 - Completing a professional sabbatical designed to acquire baseline computer science skills 
 required for entry into a computer technology field. Primary focus in full stack web.  
-- Deployed <a href="https://www.blakejarsky.tech" target="_blank">portfolio website</a> and releasing iterative 
+- Deployed <a href="https://www.blakenewsky.tech" target="_blank">portfolio website</a> and releasing iterative 
 updates. Technologies utilized include Jekyll, Liquid, html/css and jQuery. Hosted on GitHub pages 
 with custom domain via DNS configuration  
 - Building <a href="https://race-game.herokuapp.com" target="_blank">dynamic web application</a> (hosted on heroku's free 
