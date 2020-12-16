@@ -1,12 +1,14 @@
-<nav class="nav" role="navigation">
-    <div class="hamburger">&#x2630;</div>
-    </ul>
-    <ul class="menu-links">
-        {% for item in site.data.navigation %}<li><a href="{{ item.link }}" 
-        {% if page.url == item.link %}class="nav-link current"
-        {% else %}class="nav-link" 
-        {% endif %}>{{ item.name }}
-        </a></li>
-        {% endfor %}
-    </ul>
-</nav>
+<div class="nav-container">
+    <nav class="nav" role="navigation">
+        <div class="hamburger">&#x2630;</div>
+        <ul class="menu-links">
+            {% for item in site.data.navigation %}
+            <li>
+                <a href="{{ item.link }}" {% if page.url == item.link %}class="nav-link current"
+                    {% else %}class="nav-link" {% endif %}>{{ item.name }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</div>
