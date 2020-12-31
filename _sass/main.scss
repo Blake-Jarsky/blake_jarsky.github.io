@@ -62,7 +62,7 @@ nav {
   text-decoration: none;
   float: left;
   display: block;
-  width: calc((var(--nav-links-width)) / 5);
+  width: calc((var(--nav-links-width)) / 6);
   height: 50px;
   border-right: 3px solid black;
   text-align: center;
@@ -70,6 +70,7 @@ nav {
   font-size: 22px;
   font-weight: bold;
   line-height: 50px;
+  padding: 0;
 }
 
 .hamburger {
@@ -93,7 +94,7 @@ p {
 }
 
 div ul li {
-  margin-bottom: 16px;
+  margin: 0px;
 }
 
 .background-ascii-art {
