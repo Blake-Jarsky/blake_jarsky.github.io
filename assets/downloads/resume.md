@@ -1,12 +1,11 @@
 [//]: # (OPEN THIS FILE IN A WEB BROWSER)
 
 ## **BLAKE NEWSKY**  
-### Junior Software Developer - Open to relocation  
-### <a href="https://www.blakenewsky.tech/" target="_blank">www.blakenewsky.tech</a> | <a href="https://www.linkedin.com/in/blakenewsky" target="_blank">LinkedIn</a> | [blake@blakenewsky.tech](mailto:blake@blakenewsky.tech) | (424)290-0112  
+### Software Developer - Open to relocation  
+### <a href="https://www.blakenewsky.com/" target="_blank">www.blakenewsky.com</a> | [blake@blakenewsky.com](mailto:blake@blakenewsky.com) | (424)290-0112  
   
 ## **PROFILE:**  
-Proven mid-career professional culminating a career transition into hands-on tech pro. Looking to work my way up 
-within a strong team.  
+Looking to work my way up within a strong team.  
 
 ## **EDUCATION:**  
 **College of Idaho – Caldwell, ID** - Bachelor of Arts: Music Education  
