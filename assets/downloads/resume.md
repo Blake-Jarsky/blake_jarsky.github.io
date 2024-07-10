@@ -5,7 +5,7 @@
 ### <a href="https://www.blakenewsky.com/" target="_blank">www.blakenewsky.com</a> | [blake@blakenewsky.com](mailto:blake@blakenewsky.com) | (424)290-0112  
   
 ## **PROFILE:**  
-Looking to work my way up within a strong team.  
+Looking to work my way up within a strong team while building quality code.  
 
 ## **EDUCATION:**  
 **College of Idaho – Caldwell, ID** - Bachelor of Arts: Music Education  
