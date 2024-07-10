@@ -13,12 +13,10 @@ Looking to work my way up within a strong team while building high-quality code.
 
 - Completing a professional sabbatical designed to acquire baseline computer science skills 
 required for entry into a computer technology field. Primary focus in full stack web.  
-- Deployed <a href="https://www.blakenewsky.tech" target="_blank">portfolio website</a> and releasing iterative 
+- Deployed <a href="https://www.blakenewsky.com" target="_blank">portfolio website</a> and releasing iterative 
 updates. Technologies utilized include Jekyll, Liquid, html/css and jQuery. Hosted on GitHub pages 
 with custom domain via DNS configuration  
-- Building <a href="https://race-game.herokuapp.com" target="_blank">dynamic web application</a> (hosted on heroku's free 
-tier, which requires a server instance to spin up from suspended state, so it might take a few seconds 
-for the site to initially load) using React, node.js, Express, pug, bootstrap, REST API, and PostgreSQL. 
+- Building >dynamic web application using React, node.js, Express, pug, bootstrap, REST API, and PostgreSQL. 
 The concept for the application is to serve as a companion app for a video game, allowing for advanced 
 search of game events. Source code github repo <a href="https://github.com/blakemade/race-game" target="_blank">here</a>
 
@@ -48,17 +46,8 @@ adaptability through dynamic roles in diverse business environments.
 **09/2014-10/2016 – Technical Recruiter – Odesus – Los Angeles, CA**  
 - Direct Employee
 
-**06/2013-07/2014 - Senior Technical Recruiter - Robert Half Technology - Los Angeles, CA**  
-- Direct Employee
-
-**05/2010-06/2013 – Coordinator -> Manager, Artist and Career Services:  Musicians Institute – Hollywood, CA**  
-- Direct Employee
-
 ## **ADDITIONAL SKILLS:**  
 - MS Office (Access, Excel, Outlook, Word, PowerPoint, OneNote), Google Sketchup, markdown, Google Docs, Adobe Photoshop/
 Illustrator, Avid Pro Tools, Ableton Live, A/V production, Parallels, making music playlists, cycling, snowboarding, 
 automotive mechanics, electrical soldering, general construction, camping, fllexbox, typing, 10-key, computer building 
-and repair, singing, guitar and drums  
-
-
-
+and repair, singing, guitar and drums
